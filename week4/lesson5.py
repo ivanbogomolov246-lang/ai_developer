@@ -26,3 +26,4 @@ else:
 
 print(data)
 print(type(data))
+print("Git работает!")
